@@ -1,0 +1,15 @@
+TripTale Atelier 1.0 RC4 Explorer Edition
+
+La mappa illustrativa del Programma segue 13 tappe dello Sri Lanka. Puoi
+scegliere una giornata, toccare un segnaposto, ingrandire e trascinare la
+mappa. Il percorso è schematico. Le indicazioni stradali aprono un servizio
+esterno e richiedono Internet.
+
+Ogni tappa ha una fotografia di Wikimedia Commons inclusa in assets/tappe.
+Attribuzioni e licenze sono riportate sulle schede e in
+assets/tappe/ATTRIBUZIONI.md. Il service worker scarica tutte le foto
+durante l’installazione. Apri l’app online per completare l’aggiornamento.
+
+Per conservare i dati, aggiorna dalla stessa installazione e dallo stesso
+indirizzo. Prima di aggiornare fai un backup completo e conserva l’icona
+dell’app. Il ramo backup-pre-rc4-20261126 conserva i sorgenti RC3.
