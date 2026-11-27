@@ -1,5 +1,5 @@
 const CACHE_PREFIX='triptale-atelier:'+self.registration.scope+':';
-const CACHE=CACHE_PREFIX+'tt2-v1.0.4.4';
+const CACHE=CACHE_PREFIX+'tt2-v1.0.4.5';
 const SHELL=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./apple-touch-icon.png','./assets/mappe/sri-lanka-diorama.jpg'];
 const STAGE_PHOTOS=[
   './assets/tappe/colombo-aeroporto.jpg',
